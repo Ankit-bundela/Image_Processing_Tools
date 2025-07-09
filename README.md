@@ -1,19 +1,28 @@
 # Image Processing Tools
 A powerful Python Tkinter-based Image Editor with modern UI, real-time camera integration, and advanced filters.
 
-![Screenshot](icons/screenshot1.jpg)
+![Screenshot](icons/Screenshot1.jpg)
 
 ## Features
 ✨ Features
 🟢 Open & Save Images – JPG, PNG, JPEG support
+
 🟢 Zoom & Rotate – 90°, 180°, Flip
+
 🟢 Brightness & Contrast adjustment sliders
+
 🟢 Grayscale & Custom Filters
+
 🟢 Undo & Reset
+
 🟢 Dark Mode
+
 🟢 Real-Time Camera Feed
+
 🟢 Loading Splash Screen
+
 🟢 Professional Toolbar Icons
+
 🟢 Resizable UI
 
 🛠️ Tech Stack
@@ -39,4 +48,4 @@ Copy
 Edit
 python main_app.py
 🖥️ Screenshots
-<img src="icons/screenshot1.jpg" width="600" alt="App Screenshot">
+<img src="icons/Screenshot1.jpg" width="600" alt="App Screenshot">
