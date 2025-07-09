@@ -48,4 +48,4 @@ Copy
 Edit
 python main_app.py
 🖥️ Screenshots
-<img src="icons/Screenshot1.jpg" width="600" alt="App Screenshot">
+<img src="icons/Screenshot2.jpg" width="600" alt="App Screenshot">
